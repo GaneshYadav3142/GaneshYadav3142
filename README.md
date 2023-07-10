@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshyadav3142" alt="ganeshyadav3142" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 💻 I thrive on building efficient, scalable, and user-friendly web applications. With a solid foundation in front-end development (HTML, CSS, JavaScript), I love bringing designs to life and creating seamless user experiences.
 
 - 👨‍💻 All of my projects are available at [https://GaneshYadav3142.github.io](https://GaneshYadav3142.github.io)
 
