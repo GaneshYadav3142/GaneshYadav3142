@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ganesh Yadav</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<div display="flex">
+<div display="flex" >
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/featured/hacker-lj7znezbwb0nuba4.gif" alt="Ganesh Yadav" />
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshyadav3142" alt="ganeshyadav3142" /></a> </p>
+  </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshyadav3142&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshyadav3142" /> </p>
-</div>
+
 - 💻 I thrive on building efficient, scalable, and user-friendly web applications. With a solid foundation in front-end development (HTML, CSS, JavaScript), I love bringing designs to life and creating seamless user experiences.
 
 - 👨‍💻 All of my projects are available at [https://GaneshYadav3142.github.io](https://GaneshYadav3142.github.io)
