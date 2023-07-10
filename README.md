@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ganesh Yadav</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate full stack web developer with expertise in 
+JavaScript, HTML, CSS, React, React Redux, and MongoDB.</h3>
 <div display="flex" justifyContent="space-between">
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/featured/hacker-lj7znezbwb0nuba4.gif" alt="Ganesh Yadav" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshyadav3142" alt="ganeshyadav3142" /></a> </p>
