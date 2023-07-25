@@ -1,5 +1,5 @@
 
-<div align="center"><img  alt="coding" width="65%" borderRadius="12px" height="350px" src="https://gifdb.com/images/featured/hacker-lj7znezbwb0nuba4.gif"></div>
+<div align="center"><img  alt="coding" width="70%" borderRadius="12px" height="600px" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif"></div>
 <h1 align="center">Hi 👋, I'm Ganesh Yadav</h1>
 <div align="center"><h3>A passionate full stack web developer with expertise in 
 JavaScript, HTML, CSS, React, React Redux, and MongoDB.</h3></div>
